@@ -1,0 +1,15 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MLBlockSerial	KEYWORD1	MLBlockSerial
+MLObject	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+OnResult	KEYWORD2
+setOnResult	KEYWORD2
+process	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

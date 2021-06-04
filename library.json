@@ -1,0 +1,29 @@
+{
+  "name": "MLBlock Serial",
+  "keywords": "mlblock, iot, ml, ai, machine learning, esp32, esp8266",
+  "description": "A visual environment to make Machine Leaning easy and fun for beginners, now everyone can learn",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MakerAsia/mlblock-serial.git"
+  },
+  "authors": [
+    {
+      "email": "phudphut@gmail.com", 
+      "url": null, 
+      "maintainer": true, 
+      "name": "Comdet Phueadphut"
+    }
+  ], 
+  "homepage": "https://mlblock.org", 
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "arduino",
+    "espressif32", 
+    "espressif8266", 
+    "esp32",
+    "esp8266",
+    "esp8285"
+  ]
+}
