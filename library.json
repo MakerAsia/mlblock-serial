@@ -19,6 +19,13 @@
   "frameworks": "arduino",
   "platforms":
   [
+    "avr",
+    "megaavr",
+    "sam",
+    "samd",
+    "nrf52",
+    "stm32f4",
+    "mbed",
     "atmelavr",
     "espressif32", 
     "espressif8266", 
